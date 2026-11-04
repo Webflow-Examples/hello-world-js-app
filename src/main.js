@@ -148,7 +148,7 @@ function render({ data, error } = {}) {
           <a class="wf-btn wf-btn-primary" href="https://developers.webflow.com/webflow-cloud/storing-data/overview" target="_blank" rel="noreferrer">
             Read the bindings guide
           </a>
-          <a class="wf-btn wf-btn-ghost" href="https://github.com/Webflow-Examples/hello-world-js-app-bindings" target="_blank" rel="noreferrer">
+          <a class="wf-btn wf-btn-ghost" href="https://github.com/Webflow-Examples/hello-world-js-app/tree/v6-with-bindings" target="_blank" rel="noreferrer">
             View on GitHub
           </a>
         </div>

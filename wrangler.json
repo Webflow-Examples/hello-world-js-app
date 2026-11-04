@@ -1,6 +1,6 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "hello-world-js-app-bindings",
+  "name": "hello-world-js-app",
   "compatibility_date": "2025-04-15",
   "compatibility_flags": ["nodejs_compat"],
   "main": "worker/index.js",
