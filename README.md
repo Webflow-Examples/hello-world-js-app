@@ -3,7 +3,7 @@
 A **Vite + Vanilla JavaScript** starter for [**Webflow Cloud**](https://webflow.com/cloud). No framework — just Vite, a single entry file, and DOM APIs.
 
 > Looking for the bindings variant (D1, R2, KV)?
-> See [`hello-world-js-app-bindings`](https://github.com/Webflow-Examples/hello-world-js-app-bindings).
+> See [`hello-world-js-app@v6-with-bindings`](https://github.com/Webflow-Examples/hello-world-js-app/tree/v6-with-bindings).
 
 [![Deploy to Webflow](https://webflow.com/img/deploy-dark.svg)](https://webflow.com/dashboard/cloud/deploy?repo=https://github.com/Webflow-Examples/hello-world-js-app)
 
