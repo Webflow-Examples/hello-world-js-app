@@ -1,4 +1,4 @@
-# CONTEXT — hello-world-js-app-bindings
+# CONTEXT — hello-world-js-app
 
 Orientation for contributors to this **Vite Vanilla JS + bindings** Hello
 World example for [Webflow Cloud](https://developers.webflow.com/webflow-cloud).
